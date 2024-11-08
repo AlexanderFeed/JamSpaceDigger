@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"sn_first_lvl",
+  "audioGroupId":{
+    "name":"g_music",
+    "path":"audiogroups/g_music",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":112.032,
+  "name":"sn_first_lvl",
+  "parent":{
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sn_first_lvl.mp3",
+  "type":0,
+  "volume":1.0,
+}

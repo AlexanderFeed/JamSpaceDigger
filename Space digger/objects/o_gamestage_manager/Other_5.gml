@@ -1,0 +1,1 @@
+if (global.game_stage <= 11) global.game_stage ++;

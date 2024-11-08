@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"sn_dialogue",
+  "audioGroupId":{
+    "name":"g_sfx",
+    "path":"audiogroups/g_sfx",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":26.016,
+  "name":"sn_dialogue",
+  "parent":{
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sn_dialogue.mp3",
+  "type":0,
+  "volume":1.0,
+}

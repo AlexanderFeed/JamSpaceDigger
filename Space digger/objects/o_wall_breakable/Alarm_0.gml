@@ -1,0 +1,1 @@
+instance_change(o_wall_breakable_breaking,true); //Changing to the breaking object.

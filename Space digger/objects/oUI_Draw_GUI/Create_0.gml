@@ -1,0 +1,1 @@
+global.playerMoney =0;

@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"sn_braking_platform",
+  "audioGroupId":{
+    "name":"g_sfx",
+    "path":"audiogroups/g_sfx",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":2.016,
+  "name":"sn_braking_platform",
+  "parent":{
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sn_braking_platform.mp3",
+  "type":0,
+  "volume":1.0,
+}

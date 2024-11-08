@@ -1,0 +1,19 @@
+{
+  "$GMPath":"",
+  "%Name":"Monster_Path",
+  "closed":false,
+  "kind":1,
+  "name":"Monster_Path",
+  "parent":{
+    "name":"Paths",
+    "path":"folders/Paths.yy",
+  },
+  "points":[
+    {"speed":100.0,"x":0.0,"y":0.0,},
+    {"speed":100.0,"x":4.0,"y":-4.0,},
+    {"speed":100.0,"x":8.0,"y":0.0,},
+  ],
+  "precision":4,
+  "resourceType":"GMPath",
+  "resourceVersion":"2.0",
+}

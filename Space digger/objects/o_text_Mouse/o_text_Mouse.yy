@@ -1,0 +1,75 @@
+{
+  "$GMObject":"",
+  "%Name":"o_text_Mouse",
+  "eventList":[
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":7,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
+  "managed":true,
+  "name":"o_text_Mouse",
+  "overriddenProperties":[],
+  "parent":{
+    "name":"Objects",
+    "path":"folders/Objects.yy",
+  },
+  "parentObjectId":{
+    "name":"o_text_parent",
+    "path":"objects/o_text_parent/o_text_parent.yy",
+  },
+  "persistent":false,
+  "physicsAngularDamping":0.1,
+  "physicsDensity":0.5,
+  "physicsFriction":0.2,
+  "physicsGroup":1,
+  "physicsKinematic":false,
+  "physicsLinearDamping":0.1,
+  "physicsObject":false,
+  "physicsRestitution":0.1,
+  "physicsSensor":false,
+  "physicsShape":1,
+  "physicsShapePoints":[],
+  "physicsStartAwake":true,
+  "properties":[
+    {"$GMObjectProperty":"v1","%Name":"stage1","filters":[],"listItems":[
+        "\"Главное смотри под ноги!\"",
+        "\"\"",
+        "\"как думаешь, а алмазы тут есть?? \"",
+        "\"\"",
+        "\"Я бы мог хоть целый день смотреть на то, \\nкак ты тут скачешь! \"",
+      ],"multiselect":true,"name":"stage1","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"\"Главное смотри под ноги!\", \"\", \"как думаешь, а алмазы тут есть?? \", \"\", \"Я бы мог хоть целый день смотреть на то, \\nкак ты тут скачешь! \"","varType":6,},
+    {"$GMObjectProperty":"v1","%Name":"stage2","filters":[],"listItems":[
+        "\"...\"",
+      ],"multiselect":true,"name":"stage2","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"\"...\"","varType":6,},
+    {"$GMObjectProperty":"v1","%Name":"stage3","filters":[],"listItems":[
+        "\"\"",
+        "\"ПОЧЕМУ ТЫ НЕ РАССКАЗАЛ МНЕ \\nО КОТОМЕДУЗЕ ДО ПОДПИСАНИЯ КОНТРАКТА?\"",
+        "\"Я НЕ СКАЗАЛ, ЧТО БУДЕТ ЛЕГКО. \\nЯ ЛИШЬ ОБЕЩАЛ ОТКРЫТЬ ПРАВДУ \"",
+      ],"multiselect":true,"name":"stage3","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"\"\", \"ПОЧЕМУ ТЫ НЕ РАССКАЗАЛ МНЕ \\nО КОТОМЕДУЗЕ ДО ПОДПИСАНИЯ КОНТРАКТА?\", \"Я НЕ СКАЗАЛ, ЧТО БУДЕТ ЛЕГКО. \\nЯ ЛИШЬ ОБЕЩАЛ ОТКРЫТЬ ПРАВДУ \"","varType":6,},
+    {"$GMObjectProperty":"v1","%Name":"stage4","filters":[],"listItems":[
+        "\"\"",
+        "\"ЧТО ЭТО БЫЛО?\"",
+        "\"ДА, ТЫ ВИДЕЛ, КАК МНОГО ТАМ\\n БЫЛО КРИСТАЛЛОВ! И ВСЕ ТАКИЕ БЛЕСТЯЩИЕ!!\"",
+        "\"А ГИГАНТСКАЯ КОТОМЕДУЗА\\n ТЕБЯ НЕ СМУТИЛА? \"",
+        "\"точно! это было довольно… \\nне обычно \"",
+      ],"multiselect":true,"name":"stage4","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"\"\", \"ЧТО ЭТО БЫЛО?\", \"ДА, ТЫ ВИДЕЛ, КАК МНОГО ТАМ\\n БЫЛО КРИСТАЛЛОВ! И ВСЕ ТАКИЕ БЛЕСТЯЩИЕ!!\", \"А ГИГАНТСКАЯ КОТОМЕДУЗА\\n ТЕБЯ НЕ СМУТИЛА? \", \"точно! это было довольно… \\nне обычно \"","varType":6,},
+    {"$GMObjectProperty":"v1","%Name":"stage5","filters":[],"listItems":[
+        "\"«аххх темная пещера никогда не \\nсравнится с темнотой бескрайнего космоса!»\"",
+      ],"multiselect":true,"name":"stage5","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"\"«аххх темная пещера никогда не \\nсравнится с темнотой бескрайнего космоса!»\"","varType":6,},
+    {"$GMObjectProperty":"v1","%Name":"stage6","filters":[],"listItems":[
+        "\"вроде бы все мои части тела на месте,\\n миссию поход можно считать удачным!\"",
+      ],"multiselect":true,"name":"stage6","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"\"вроде бы все мои части тела на месте,\\n миссию поход можно считать удачным!\"","varType":6,},
+    {"$GMObjectProperty":"v1","%Name":"stage7","filters":[],"listItems":[
+        "\"\"",
+        "\"не терпится рассказать Лайкару о том,\\n как ловко я провел эту медузу вокруг когтя\"",
+      ],"multiselect":true,"name":"stage7","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"\"\", \"не терпится рассказать Лайкару о том,\\n как ловко я провел эту медузу вокруг когтя\"","varType":6,},
+    {"$GMObjectProperty":"v1","%Name":"stage8","filters":[],"listItems":[
+        "\"еще один успешный спуск! \\nеще один крепкий сон\"",
+      ],"multiselect":true,"name":"stage8","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"\"еще один успешный спуск! \\nеще один крепкий сон\"","varType":6,},
+  ],
+  "resourceType":"GMObject",
+  "resourceVersion":"2.0",
+  "solid":false,
+  "spriteId":null,
+  "spriteMaskId":null,
+  "visible":true,
+}
